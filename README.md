@@ -8,6 +8,8 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 
 ### B
 
+- [Beef](b/beef.bf)
+
 ### C
 
 - [C](c/c.c)
@@ -45,6 +47,9 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 
 ### O
 
+- [Objective-C](o/obj-c.m)
+- [Odin](o/odin.odin)
+
 ### P
 
 - [Python 3](p/python.py)
@@ -64,6 +69,8 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 ### U
 
 ### V
+
+- [V](v/vlang.v)
 
 ### W
 
