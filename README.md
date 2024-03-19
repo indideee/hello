@@ -52,6 +52,7 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 
 ### P
 
+- [Python 2](p/python2.py)
 - [Python 3](p/python.py)
 
 ### Q
