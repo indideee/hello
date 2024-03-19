@@ -4,13 +4,13 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 
 ## List of Languages
 
-- [C](c.c)
-- [C++](cplusplus.cpp)
-- [Go](golang.go)
-- [LLVM IR](llvmir.ll)
-- [Python 3](python.py)
-- [Rust](rust.rs)
-- [Zig](zig.zig)
+- [C](c/c.c)
+- [C++](c/cplusplus.cpp)
+- [Go](g/golang.go)
+- [LLVM IR](l/llvmir.ll)
+- [Python 3](p/python.py)
+- [Rust](r/rust.rs)
+- [Zig](z/zig.zig)
 
 ## Note about license
 
