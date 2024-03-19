@@ -12,6 +12,7 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 
 - [C](c/c.c)
 - [C++](c/cplusplus.cpp)
+- [C#](c/csharp.cs)
 
 ### D
 
@@ -28,6 +29,9 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 ### I
 
 ### J
+
+- [Java](j/java.java)
+- [JavaScript](j/javascript.js)
 
 ### K
 
@@ -54,6 +58,8 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 ### S
 
 ### T
+
+- [TypeScript](t/typescript.ts)
 
 ### U
 
