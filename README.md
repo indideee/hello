@@ -48,6 +48,7 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 ### O
 
 - [Objective-C](o/obj-c.m)
+- [OCaml](o/ocaml.ml)
 - [Odin](o/odin.odin)
 
 ### P
