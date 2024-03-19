@@ -68,6 +68,8 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 
 ### U
 
+- [Uxntal](u/uxntal.tal)
+
 ### V
 
 - [V](v/vlang.v)
