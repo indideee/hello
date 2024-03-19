@@ -1,4 +1,4 @@
-# hiya
+# 👋 hello
 
 Hello, world! in every language that I know (of). Please don't add your own languages via pull request, make an issue and I'll consider it.
 
