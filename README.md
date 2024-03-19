@@ -58,6 +58,7 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 
 ### R
 
+- [Ruby](r/ruby.rb)
 - [Rust](r/rust.rs)
 
 ### S
