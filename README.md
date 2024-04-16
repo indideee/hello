@@ -18,6 +18,8 @@ Hello, world! in every language that I know (of). Please don't add your own lang
 
 ### D
 
+- [D](d/dlang.d)
+
 ### E
 
 ### F
